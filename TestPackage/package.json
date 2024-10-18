@@ -1,0 +1,10 @@
+{
+  "name": "com.kvijaykiran.testpackage",
+  "version": "1.0.0",
+  "displayName": "Test Package",
+  "description": "A test Unity package.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Vijay Kalivarapu"
+  }
+}
